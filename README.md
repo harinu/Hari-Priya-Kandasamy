@@ -26,7 +26,7 @@ identity management and user support within a healthcare context and enhancing c
   tools like GradCAM, SHAP to enhance model interpretability, significantly boosting clinical diagnostic precision.
 
 ## Interested in collaborating?
-Let’s connect if you're working on search infrastructure, semantic ranking, Gen AI search, or hiring engineers who love solving search problems with clean code, creative thinking, and real-world impact. Reach out to me at hpkanda@gmail.com
+Let’s connect if you're working on search infrastructure, semantic ranking, Gen AI search, or hiring engineers who love solving search problems with clean code, creative thinking, and real-world impact. Reach out to me at hpkanda13@gmail.com
 
 ## Leadership Roles
 • International Graduate Student Agency Director, Graduate Student Assembly at UT Austin (June 2022- May 2023)
