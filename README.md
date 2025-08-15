@@ -8,19 +8,16 @@ Outside of work, I enjoy playing softball, reading and exploring new hobbies
 
 01. Multimodal RAG for Technical Documentation
 A powerful retrieval-augmented generation (RAG) system designed to process and answer questions about technical documentation, including text, images, diagrams, and code snippets.
-
-Python • LangChain • ChromaDB • FastAPI • React
+ Python • LangChain • ChromaDB • FastAPI • React
 
 02. Stock Advisor Agent
 A stock advisor agent powered by AI provides users (with no prior stocks knowledge) with personalised stock investment recommendations based on risk portfolio,news analysis and a dedicated chatbot to answer user queries.
-
-Python • Transformers • Flask
+ Python • Transformers • Flask
 
 03. Yottasecure Chatbot
 Developing a LLM based chatbot, integrating Zero Trust security and SPIFFE/SPIRE APIs, to automate secure
 identity management and user support within a healthcare context and enhancing chatbot intelligence by curating a specialized dataset, leading to a nuanced understanding of security-related queries and a user-friendly conversational experience.
-
-Python • Rasa • Docker • Cybersecurity 
+ Python • Rasa • Docker • Cybersecurity 
 
 ## Master’s Thesis: A Comparative Study of Deep Learning Models with XAI for Chest X-ray Images (Computer vision, Deep Learning)
   • Evaluated and compared deep learning models (Inceptionv4, Vision Transformer) against traditional CNNs for chest X-ray image
