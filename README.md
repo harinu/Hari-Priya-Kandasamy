@@ -1,4 +1,4 @@
-# Hari-Priya-Kandasamy
+
 
 Hello! I am Hari Priya Kandasamy, a Software Engineer specializing in Large Language Models (LLMs), search, information retrieval, and Retrieval-Augmented Generation (RAG). I am currently located in Sunnyvale, CA, where I'm building a generative LLM-powered assistant for conversational data discovery and designed scalable lineage tracing systems. Previously, I conducted machine learning research at the AI Health Lab, University of Texas at Austin, developing ViT-based models for clinical datasets and predictive patient outcome forecasting. I have a background in Data Science and hold a Master's in Information Science from The University of Texas at Austin. My passion lies in developing scalable AI-driven solutions that enhance information access and retrieval.
 
